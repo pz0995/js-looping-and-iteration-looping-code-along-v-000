@@ -1,1 +1,22 @@
 // Code your solutions in this file
+
+const employees = ["Ada", "Brendan", "Ali"];
+
+function printBadges(badges) {
+
+  for(let i = 0; i < callCount.length; i++); {
+  console.log("Welcome ${employees}! You are employee #${callCount}.");
+  console.log(i)
+  }
+  return badges
+}
+printBadges(badges)
+
+
+function tailsNeverFails() {
+  let i = 0
+  while (Math.random() > 0.5) {
+    console.log("You got ${tails} tails in a row!");
+    i = i + 1
+  }
+}
